@@ -2,11 +2,17 @@
 
 Bem-vindo à **DIO Academy**! Este repositório é dedicado ao meu aprendizado e desenvolvimento de habilidades em diversas tecnologias e práticas de programação. Aqui, organizo meus **projetos**, **exercícios** e **recursos** que ajudam a aprofundar meus conhecimentos e preparar para desafios no mundo da tecnologia. 🚀
 
-## 🎯 Objetivos
 
-- 📚 **Aprendizado Contínuo**: Um espaço pessoal para prática e aprendizado em várias áreas da tecnologia.
-- 💻 **Desenvolvimento de Projetos**: Criar e documentar aplicações que utilizo para consolidar o aprendizado.
-- 🌱 **Aprimoramento de Habilidades**: Recursos e exercícios que ajudam no meu desenvolvimento pessoal e profissional.
+## 🚀 Current Projects
+
+- [📢 Claro - Java com Spring Boot Claro - Java com Spring Boot](https://github.com/DIOAcad/.github/issues/1)
+
+    
+<br/>
+
+> #### ✨ Confira o [Roadmap](https://github.com/orgs/DIOAcad/projects/3) para uma visão geral do planejamento dos meus estudos. Explore e acompanhe as [Issues](https://github.com/orgs/DIOAcad/projects/2) abertas.
+
+<br/>
 
 ## 📂 Conteúdo do Repositório
 
