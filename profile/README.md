@@ -37,3 +37,5 @@ Este projeto está licenciado sob a [Licença MIT](LICENSE).
 ---
 
 🚀 **Aproveite sua jornada na DIO Academy!** Este repositório é meu espaço pessoal para organização de estudos e exercícios. Se tiver dúvidas, estou sempre aberto a sugestões para melhorar meu aprendizado. 💡
+
+> ##### (https://hermes.dio.me/public-users/andersonlinker/share/57936cf1b33f225d300f212f7bfda21d.png
