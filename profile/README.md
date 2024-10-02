@@ -5,7 +5,7 @@ Bem-vindo à **DIO Academy**! Este repositório é dedicado ao meu aprendizado e
 
 ## 🚀 Current Projects
 
-- [📢 Claro - Java com Spring Boot](https://github.com/DIOAcad/.github/issues/1)
+- [ ] [📢 Claro - Java com Spring Boot](https://github.com/DIOAcad/.github/issues/1)
 
     
 <br/>
