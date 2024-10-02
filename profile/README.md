@@ -5,8 +5,15 @@ Bem-vindo à **DIO Academy**! Este repositório é dedicado ao meu aprendizado e
 
 ## 🚀 Current Projects
 
-- [x] [📢 Claro - Java com Spring Boot](https://github.com/DIOAcad/.github/issues/1)
+- [📢 Claro - Java com Spring Boot](https://github.com/DIOAcad/.github/issues/1)
 
+    Roadmap:
+    - [x] [📚 Introdução ao Ambiente Java e Projetos Colaborativos](https://github.com/DIOAcad/.github/issues/2)
+    - [x] [📚 Sintaxe Básica com Java](https://github.com/DIOAcad/.github/issues/3)
+    - [x] [📚 Programação Orientada a Objetos com Java](https://github.com/DIOAcad/.github/issues/4)
+    - [x] [📚 Testes e Gerenciamento de Dependências em Projetos Java](https://github.com/DIOAcad/.github/issues/5)
+    - [x] [📚 Banco de Dados SQL e NoSQL Para Desenvolvedores Back-end](https://github.com/DIOAcad/.github/issues/6)
+    - [x] [📚 Ganhando Produtividade no Java com Spring Framework](https://github.com/DIOAcad/.github/issues/7)
     
 <br/>
 
