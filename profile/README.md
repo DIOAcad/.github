@@ -7,7 +7,7 @@ Bem-vindo à **DIO Academy**! Este repositório é dedicado ao meu aprendizado e
 
 - ✅ [📢 Claro - Java com Spring Boot](https://github.com/DIOAcad/.github/issues/1)
 
-    Roadmap:
+    Certificados:
     - [x] [📚 Introdução ao Ambiente Java e Projetos Colaborativos](https://github.com/DIOAcad/.github/issues/2)
     - [x] [📚 Sintaxe Básica com Java](https://github.com/DIOAcad/.github/issues/3)
     - [x] [📚 Programação Orientada a Objetos com Java](https://github.com/DIOAcad/.github/issues/4)
